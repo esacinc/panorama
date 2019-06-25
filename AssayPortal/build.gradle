@@ -25,7 +25,7 @@ import java.util.regex.Pattern
 
 apply plugin: 'java'
 
-project.version="18.1-SNAPSHOT"
+project.version="18.3-SNAPSHOT"
 
 project.task("wrapper",
         type: Wrapper,
